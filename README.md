@@ -1,2 +1,2 @@
-# KINEN
-career game with missions and crime
+Gold Vibes
+career and crime
